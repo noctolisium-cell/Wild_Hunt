@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "wildhunt:block/blizzard_core"
+  },
+  "render_type": "translucent"
+}
