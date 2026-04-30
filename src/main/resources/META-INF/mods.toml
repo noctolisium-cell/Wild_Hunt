@@ -1,7 +1,7 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license="MIT"
-author="___Evernight___"
+license="NEL"
+author="Nightmarice"
 
 [[mods]]
 modId="wildhunt"
